@@ -667,11 +667,11 @@ footer{
     align-items: center;
     flex-wrap: wrap;
     background-color: rgba(0, 0, 0, 0.4);
-    background-image: url(/desafio/assets/img/footer.jpg);
+    background-image: url(/assets/img/footer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background: radial-gradient(farthest-corner, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(/desafio/assets/img/footer.jpg) center/cover;
+    background: radial-gradient(farthest-corner, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(/assets/img/footer.jpg) center/cover;
     color: var(--white);
     padding: 1rem;
     padding-top: 2rem;

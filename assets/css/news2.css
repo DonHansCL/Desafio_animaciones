@@ -280,7 +280,7 @@ body{
     height: 70vh;
     clip-path: polygon(0 0, 60vw 0, 40vw 100vh, 0 100vh);
     z-index: 1;
-    background-image:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/desafio/assets/img/_0eb5f24b-32d7-4261-9c39-85ff782aaa48.jpeg);
+    background-image:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/assets/img/_0eb5f24b-32d7-4261-9c39-85ff782aaa48.jpeg);
       background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
@@ -378,7 +378,7 @@ body{
     width: 60%;
     background-color: green;
     height: 70vh;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/desafio/assets/img/mic.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(/assets/img/mic.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -547,7 +547,7 @@ body{
   
   .card:after {
     background: white;
-    background-image: url(/desafio/assets/img/fondonegro.png);  
+    background-image: url(/assets/img/fondonegro.png);  
     object-fit: contain;  
     
     color: var(--primary);
@@ -637,11 +637,11 @@ footer{
     align-items: center;
     flex-wrap: wrap;
     background-color: rgba(0, 0, 0, 0.4);
-    background-image: url(/desafio/assets/img/footer.jpg);
+    background-image: url(/assets/img/footer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background: radial-gradient(farthest-corner, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(/desafio/assets/img/footer.jpg) center/cover;
+    background: radial-gradient(farthest-corner, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(/assets/img/footer.jpg) center/cover;
     color: var(--white);
     padding: 1rem;
     padding-top: 2rem;
